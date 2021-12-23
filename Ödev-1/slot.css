@@ -1,0 +1,33 @@
+.flex{
+    
+    text-align: center;
+    font-size: larger;
+   
+}
+.head{
+
+    text-align: center;
+    color: brown;
+}
+p{
+
+    text-align: center;
+}
+
+ul{
+
+    display: inline-block;
+    text-align: left;
+
+}
+h1{
+    text-align: center;
+}
+h3{
+    color: yellowgreen;
+}
+ol{
+
+    display: inline-block;
+    text-align: left;
+}
